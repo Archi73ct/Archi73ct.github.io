@@ -4,6 +4,9 @@
 
 layout: home
 ---
-# Hey... Welcome to my online notes.
+# /
+Hey...
+{% highlight %}
 0000  00  00  00  00 
 0004  00  00  00  00
+{% endhighlight %}
