@@ -6,7 +6,8 @@ layout: home
 ---
 # /
 Hey...
-{% highlight %}
+welcome...
+```
 0000  00  00  00  00 
 0004  00  00  00  00
-{% endhighlight %}
+```
