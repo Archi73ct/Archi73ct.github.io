@@ -43,4 +43,4 @@ plugins:
 #
 # The header pages for my site
 header_pages:
-        - index.md
+  - index.md
